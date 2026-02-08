@@ -1,0 +1,7 @@
+.git
+.git/
+data.csv
+data.py
+
+.env
+*.log
